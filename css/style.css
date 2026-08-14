@@ -1403,10 +1403,6 @@ section.tab-section {
         display: none;
     }
 
-    .product-dec {
-        padding: 20px 10px 0;
-    }
-
     .csslider ul li img {
         height: auto;
     }
@@ -1465,10 +1461,6 @@ section.tab-section {
         margin-top: 40px;
         text-align: center;
         padding: 0;
-    }
-
-    .mbn {
-        margin-bottom: 0;
     }
 
     .menu-top li a {
