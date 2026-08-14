@@ -134,7 +134,7 @@ img {
     display: inline-block;
     list-style: none;
     text-align: center;
-    padding: 0 10px;
+    padding-left: 30px;
     font-size: 18px;
     font-weight: bold;
     position: relative;
@@ -804,7 +804,7 @@ section.tab-section {
 }
 
 .footer-widget img {
-    border-radius: 10px;
+    width: 300px;
 }
 
 .footer-widget p {
